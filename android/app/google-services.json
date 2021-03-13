@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "491695796810",
+    "firebase_url": "https://tepc19.firebaseio.com",
+    "project_id": "tepc19",
+    "storage_bucket": "tepc19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491695796810:android:762786eb6e47f33153acb3",
+        "android_client_info": {
+          "package_name": "com.SITeam.qrform"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491695796810-j9kr89d7u65alre5mie8v8rraael6u04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9BTl_nN-tjIXhjWEviajqsAAUzs8Rudw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491695796810-j9kr89d7u65alre5mie8v8rraael6u04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
